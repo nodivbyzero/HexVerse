@@ -2,6 +2,8 @@
 
 A macOS screensaver that animates R package hex stickers in a honeycomb grid. Stickers grow from a single point, hold, then fade out — each at its own random speed.
 
+![HexVerse Preview](preview.png)
+
 ## Installation
 
 1. Download `HexVerse.saver.zip` from the [latest release](../../releases/latest)
@@ -31,8 +33,7 @@ Sticker images should ideally be hex-shaped PNGs with a transparent background, 
 
 ## Stickers
 
-Hex stickers included in this repo are from the [rstudio/hex-stickers](https://github.com/rstudio/hex-stickers) collection, licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — public domain, no attribution required.
-
+Hex stickers are the intellectual property of their respective R package authors and maintainers. Many are from the [rstudio/hex-stickers](https://github.com/rstudio/hex-stickers) collection (CC0). This project uses them for non-commercial, fan/community purposes only. If you are a package author and would like your sticker removed, please open an issue.
 
 ## License
 
